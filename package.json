@@ -1,0 +1,22 @@
+{
+  "description": "undefined",
+  "main": "index.tsx",
+  "dependencies": {
+    "@ant-design/charts": "1.1.15",
+    "lodash": "4.17.21",
+    "react": ">=16.8.4",
+    "react-dom": ">=16.8.4",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "devDependencies": {
+    "typescript": "^3"
+  },
+  "keywords": [],
+  "name": "ant-design-bar-charts",
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
